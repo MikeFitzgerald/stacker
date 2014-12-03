@@ -1,5 +1,6 @@
 /*
-	
+LESSONS
+
 1. Go supports the creation of custom types (is-a relationships)
 
 2. Go makes aggregation (has-a) very easy
